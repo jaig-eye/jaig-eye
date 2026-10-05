@@ -1,4 +1,4 @@
-# Hey, I'm jaig-eye 👋
+# Hey, I'm Jaig 👋
 
 I build things for the web, automate the boring stuff, and enjoy turning rough ideas into working software.
 
