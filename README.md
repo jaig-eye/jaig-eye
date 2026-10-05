@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm jaig-eye 👋
 
-<!--
-**jaig-eye/jaig-eye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things for the web, automate the boring stuff, and enjoy turning rough ideas into working software.
 
-Here are some ideas to get you started:
+## What I'm into
+- 🛠️ Web development and automation
+- 📈 Analytics, reporting and data-driven tooling
+- 🤖 Bots and AI-assisted workflows
+- 🎮 Tinkering with games and side experiments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- 🌱 Always learning something new
+- 🔧 Shipping small improvements often
+
+## Say hi
+Open an issue or follow along. Always happy to chat about code.
